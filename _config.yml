@@ -10,7 +10,7 @@ encoding: utf-8
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "dr. anna latour"
+title                    : "anna latour"
 title_separator          : "-"
 name                     : &name "Anna Latour"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ repository               : "latower/latower.github.io"
 author:
   # Biographic information
   avatar           : "alatour.JPG"
-  name             : "anna latour"
+  name             : "dr. anna latour"
   pronouns	       : "she/her or they/them"
   bio              : "computer scientist. feminist. trekkie."
   location         : "Netherlands"

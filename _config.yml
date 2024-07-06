@@ -10,7 +10,7 @@ encoding: utf-8
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "anna latour"
+title                    : "dr. anna latour"
 title_separator          : "-"
 name                     : &name "Anna Latour"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "alatour.JPG"
   name             : "anna latour"
-  pronouns	   : "she/her or they/them"
-  bio              : "research fellow. computer scientist. feminist."
-  location         : "Earth"
-  employer         : "National University of Singapore"
+  pronouns	       : "she/her or they/them"
+  bio              : "computer scientist. feminist. trekkie."
+  location         : "Netherlands"
+  employer         : "Delft University of Technology"
   uri		   : # URL
   email		   : # fake
  

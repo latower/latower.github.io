@@ -117,7 +117,8 @@
   }
 }
 .sidebar .author__name {
-  font-family: 'Handlee'; //$sans-serif;
+  font-family: 'inconstant-variable'; // 'Handlee'; //$sans-serif;
+  font-weight: bold;
   font-size: $type-size-5;
 }
 

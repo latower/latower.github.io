@@ -128,6 +128,18 @@
   font-weight: bold;
   font-size: $type-size-5;
 }
+.sidebar .author__pronouns {
+  font-family: $inconstant;
+  font-size: $type-size-6;
+}
+.sidebar .author__bio {
+  font-family: $inconstant;
+  font-size: $type-size-6;
+}
+.sidebar .author__urls {
+  font-family: $inconstant;
+  font-size: $type-size-5;
+}
 
 .sidebar .author__desktop {
   display: none;
@@ -138,7 +150,6 @@
 
 .author__pronouns {
   margin: 0;
-
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -158,7 +169,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $inconstant; // $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
@@ -195,7 +206,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-
+ font-family: $inconstant;
   @include breakpoint($large) {
     display: block;
     position: relative;
@@ -253,7 +264,7 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
-
+    font-family: $inconstant;
     &:hover {
       text-decoration: underline;
     }

@@ -4,7 +4,6 @@
 
 .archive {
   margin-bottom: 2em;
-
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
@@ -16,7 +15,6 @@
 
   a {
     text-decoration: underline;
-
     &:hover {
       text-decoration: underline;
 
@@ -28,9 +26,9 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 0em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-2;
+  font-size: $type-size-3;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
@@ -41,11 +39,25 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-4;
+  font-family: $inconstant; //$sans-serif-narrow;
+  font-size: $type-size-5;
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__page-date {
+  margin-bottom: 0.25em;
+  font-family: $inconstant; //$sans-serif-narrow;
+  font-size: $type-size-8;
+  color: mix(#fff, $gray, 10%);
+}
+
+.archive_read-time {
+  margin-bottom: 0.25em;
+  font-family: $inconstant; //$sans-serif-narrow;
+  font-size: $type-size-8;
+  color: mix(#fff, $gray, 10%);
 }
 
 /* remove border*/
@@ -59,11 +71,11 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   & + p {
     text-indent: 0;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
   }
 }
 

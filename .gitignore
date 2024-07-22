@@ -5,5 +5,5 @@ _site/
 **.blg
 **.log
 latex/**.pdf
-
+.DS*
 

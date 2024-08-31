@@ -27,10 +27,10 @@ author:
   name             : "dr. anna latour"
   pronouns	       : "she/her or they/them"
   bio              : "computer scientist. feminist. trekkie."
-  location         : "Netherlands"
+  location         : # "Netherlands"
   employer         : "Delft University of Technology"
   uri		   : # URL
-  email		   : # fake
+  email		         : # Email
  
   # Academic websites
   arxiv	 	   : # URL
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5802-8271"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # 
   researchgate     : "https://www.researchgate.net/profile/Anna-Latour-2"
 
   # Repositories and software development  

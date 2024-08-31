@@ -27,7 +27,7 @@ import re
 # Build a .bib file from the individual bib entries in files/bib:
 from pathlib import Path
 parentdir = str(Path(os.getcwd()).parent.absolute())
-with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile, open ("dissertation.bib", "w") as dissertationfile:
+with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile, open ("dissertation.bib", "w") as dissertationfile, open("software.bib", "w") as softwarefile:
     for bib_file in os.listdir(parentdir + '/files/bib'):
         with open(parentdir + '/files/bib/' + bib_file, 'r') as bf:
             lines = bf.readlines()
@@ -37,6 +37,8 @@ with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile
                 pubsfile.writelines(lines)
             elif lines[0].strip().startswith('@phdthesis'):
                 dissertationfile.writelines(lines)
+            elif lines[0].strip().startswith('@software'):
+                softwarefile.writelines(lines)
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
@@ -65,6 +67,14 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
+    },
+    "software": {
+        "file": "software.bib",
+        "authorkey": "author",
+        "venuekey": "journal",
+        "venue-pretext": "",
+        "collection": {"name": "publications",
+                       "permalink": "/publication/"}
     }
 }
 
@@ -140,7 +150,7 @@ for pubsource in publist:
             #citation authors - todo - add highlighting for primary author?
             authors = ""
             for author in bibdata.entries[bib_id].persons["author"]:
-                authors = authors+" "+author.first_names[0]+" "+author.last_names[0].replace('{', '').replace('}', '')+", "
+                authors = authors+" "+author.first_names[0].replace('\\"e','ë')+" "+author.last_names[0].replace('{', '').replace('}', '')+", "
             authors = authors[:-2]
             citation += authors
 
@@ -149,6 +159,8 @@ for pubsource in publist:
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            if pubsource == 'software':
+                venue = 'github'
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."

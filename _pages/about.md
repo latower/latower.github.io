@@ -39,4 +39,4 @@ _I am currently looking for motivated MSc and BSc students_ with a solid backgro
 ### FAQ
 
 Q: What's up with this font?\
-A: It's [Inconstant Regular](https://www.nothingcomicaboutdyslexia.com/inconstant-regular), a font that is designed to be dyslexia-friendly.
+A: It's [Inconstant Regular](https://danielbrokstad.com/Inconstant-Regular), a font that is designed to be dyslexia-friendly.

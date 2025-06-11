@@ -31,7 +31,7 @@ Here is an example of what I expect from this exercise. It is based on one my fa
 
 ![A square plot with a dashed diagonal running from the bottom left corner to the top right corner. Rest of image description in text below.](/images/2025/2025-06-25_plot-sketch.png){: .align-center}
 
-In this plot, I am imagining a scatter plot, where each data point corresponds to a problem instance. The horizontal axis represents how much time the SotA (State of the Art) needs to solve that instance. The vertical axis represents how much time my method needs to solve that instance. I have annotated different areas in the plot with their interpretation. Any data point above the diagonal means that my method solved the corresponding instance faster than the SotA. Any data point below the diagonal means the opposite. Data points on the diagonal indicate instances for which both methods performed the same.
+In this plot, I am imagining a scatter plot, where each data point corresponds to a problem instance. The horizontal axis represents how much time the SotA (State of the Art) needs to solve that instance. The vertical axis represents how much time my method needs to solve that instance. I have annotated different areas in the plot with their interpretation. Any data point below the diagonal means that my method solved the corresponding instance faster than the SotA. Any data point above the diagonal means the opposite. Data points on the diagonal indicate instances for which both methods performed the same.
 
 ## Now what?
 

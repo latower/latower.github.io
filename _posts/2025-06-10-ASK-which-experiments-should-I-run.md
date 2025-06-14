@@ -45,6 +45,18 @@ Obviously, everybody's research is different, and the plot above may not work fo
 
 If you don't know, read the literature to see how other scientists in your field use plots communicate their findings. Kick ass!
 
+## Inspiration
+
+I am not the only one who does this! The following examples were kindly shared with me by [Tom Stafford](https://tomstafford.github.io/) and [Daniela Gahwens](https://www.linkedin.com/in/danielagawehns/) (posted here with their permission):
+
+Credit: [Tom Stafford](https://tomstafford.github.io/). | Credit: [Daniela Gahwens](https://www.linkedin.com/in/danielagawehns/).
+:--------------------------------------------------------:|:-----------------------------------------:
+<img src="/images/2025/2025-06-12_sketch.jpg" alt="ALT" width="300"/> | <img src="/images/2025/2025-06-13_sketch.jpg" alt="ALT" width="300"/>
+Possible outcomes for an analysis of Community Notes contributors. | Interpreting potential findings.
+
+
+
+
 ## Call for submissions
 
 What is your favourite plot to communicate your main findings? Do you have any sketches that you are willing to share, so I can post them here to help others? Please get in touch!

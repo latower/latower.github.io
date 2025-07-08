@@ -40,3 +40,6 @@ _I am currently looking for motivated MSc and BSc students_ with a solid backgro
 
 Q: What's up with this font?\
 A: It's [Inconstant Regular](https://danielbrokstad.com/Inconstant-Regular), a font that is designed to be dyslexia-friendly.
+
+Q: Do you use GenAI to create content?\
+A: Unless explicitly stated otherwise, I do not use GenAI to create content.

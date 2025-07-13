@@ -28,6 +28,8 @@ If you would like to know more about my current position, research interests and
 
 ### Want to work with me?
 
+**I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics.** *Application deadline: 31 August 2025*. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
+
 _I am currently looking for motivated MSc and BSc students_ with a solid background in algorithm design and logic, who would like to do their research project with me. Please contact me if you are interested, so we can discuss possible topics.
 
 ### Contact
@@ -43,3 +45,6 @@ A: It's [Inconstant Regular](https://danielbrokstad.com/Inconstant-Regular), a f
 
 Q: Do you use GenAI to create content?\
 A: Unless explicitly stated otherwise, I do not use GenAI to create content.
+
+Q: Are you hiring?\
+A: Yes, [I am](/posts/2025/07/hiring/). I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics. **Application deadline: 31 August 2025**. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.

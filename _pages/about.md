@@ -10,6 +10,8 @@ redirect_from:
 
 I am an assistant professor at the [Algorithmics](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) group of the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) at the [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs) at [Delft University of Technology](https://www.tudelft.nl/en/).
 
+**[I am hiring](/posts/2025/07/hiring/)! I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics. *Application deadline: 31 August 2025***. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
+
 ### My research
 
 I specialise in Symbolic AI (mathematical logic-based reasoning). Even though we as a society put a lot of trust in AI, mainstream AI systems are essentially "just winging it". I care about create AI systems that _deserve_ our trust.

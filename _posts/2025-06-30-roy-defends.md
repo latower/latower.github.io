@@ -20,4 +20,4 @@ ORTEC kindly hosted Roy in this student project on improving an existing simulat
 
 Existing methods rely on stochastic local search paradigms to refine *feasible* solutions to *good* feasible solutions. Roy first did a literature study of NRP solving techniques. He finally focused on *ejection chains*, which are techniques aimed at leaving local minima by breaking a feasible solution and then repairing it through a series of propagating moves (in this case: shift swaps). He designed and implemented several variants of ejection chains in an existing NRP solver, and did a thorough analysis of how they perform in terms of eventual solution quality.
 
-I've gotten to know Roy as a modest and friendly guy with a good sense of humour, an intellectually honest thinker, and a researcher who presents his findings with flair. I wish him all the best with his next career steps.
+I've gotten to know Roy as a humble and friendly guy with a good sense of humour, an intellectually honest thinker, and a researcher who presents his findings with flair. I wish him all the best with his next career steps.

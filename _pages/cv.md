@@ -9,14 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-On this page you can find a short academic CV. 
-<!-- For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/). -->
+On this page you can find a short academic CV. For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/).
 
 ### CURRENT POSITION
 
-I am currently working as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS), where I have been since February 2022. I work on certification & verification, MaxSAT, and propositional model counting (#SAT).
+I joined the [Algorithmics](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) group of the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) at the [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs) at [Delft University of Technology](https://www.tudelft.nl/en/) (TU Delft) as an assistant professor in June 2024. My research interests lie in combinatorial optimisation, propositional model counting (#SAT), constraint programming (CP), operations research (OR), and reasoning under uncertainty.
 
-### DOCTORATE DEGREE
+
+### PREVIOUS POSITIONS
+
+#### Post-doc at National University of Singapore
+
+Before joining TU Delft, I worked as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS). Here, I worked on certification & verification, MaxSAT, and propositional model counting (#SAT).
+
+#### PhD at Leiden University
 
 I did my doctorate research at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [ dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily advisor). During the entire period as a doctorate student, I was also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html), where I spent the first year of my PhD (2017). I worked with  [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) from the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) at the University of Toronto, while I was a visiting researcher there from June to October of 2019.
 
@@ -67,6 +73,8 @@ See [teaching](latower.github.io/teaching).
 
 #### PROGRAM COMMITTEE MEMBER
 
+  - [ICML 2025](https://icml.cc/Conferences/2025)
+  - [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)
   - [ICML 2024](https://icml.cc/Conferences/2024/) 
   - [IJCAI 2024](https://ijcai24.org)
   - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) 
@@ -81,6 +89,7 @@ See [teaching](latower.github.io/teaching).
 
 #### SUB-REVIEWER
 
+  - [SAT 2025](https://satisfiability.org/SAT25/)
   - [KR 2023](https://kr.org/KR2023/)
   - [CAV 2022](http://i-cav.org/2022/)
 

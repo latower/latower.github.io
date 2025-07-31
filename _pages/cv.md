@@ -42,6 +42,8 @@ See [publications](latower.github.io/publications).
 
 ### AWARDS, SCHOLARSHIPS, GRANTS
 
+**2025:** [Veni 2024 research grant](https://www.nwo.nl/en/news/200-researchers-receive-veni-grants) recipient for the project "Finding Variables that Matter". I am receiving € 320 000 from NWO (Dutch Research Council) for fundamental research. Click [here](/posts/2025/07/veni/) for more info.
+
 **2023:** Travel grant, to visit the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/homepage) for a month, in order to attend the [Extendend Reunion: Satisfiability](https://simons.berkeley.edu/programs/extended-reunion-satisfiability). Grant covered travel, accommodation and food for one month.
 
 **2021:** Outstanding Program Committee Member Award AAAI 2021, which was awarded to the 13 best reviewers. The AAAI-21 Program Committee: “Your efforts were characterised by exceptional care, thoroughness, and thoughtfulness in the reviews and discussions of the papers assigned to you.”

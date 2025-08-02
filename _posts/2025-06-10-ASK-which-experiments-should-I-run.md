@@ -54,7 +54,7 @@ Credit: [Tom Stafford](https://tomstafford.github.io/). | Credit: [Daniela Gaweh
 <img src="/images/2025/2025-06-12_sketch.jpg" alt="ALT" width="300"/> | <img src="/images/2025/2025-06-13_sketch.jpg" alt="ALT" width="300"/>
 Possible outcomes for an analysis of Community Notes contributors. | Interpreting potential findings.
 
-I really love these slides by [prof. dr. Thomas Gärtner](https://thomasgaertner.org/). They immediately grabbed my attention at the start of his talk, and communicated to me what I should pay attention to and how to interpret the material that he was going to present during the rest of his talk (posted here with his permission):
+I really love the following slides by **[prof. dr. Thomas Gärtner](https://thomasgaertner.org/)**. They immediately grabbed my attention at the start of his talk, and communicated to me what I should pay attention to and how to interpret the material that he was going to present during the rest of his talk (posted here with his permission):
 
 | ![test](/images/2025/2025-06-15_smile_2025_anticipation.png){: .align-center} |
 | ![test](/images/2025/2025-06-15_smile_2025_grrepspace.png){: .align-center} |

@@ -10,8 +10,6 @@ redirect_from:
 
 I am an assistant professor at the [Algorithmics](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) group of the [Department of Software Technology](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/) at the [Faculty of Electrical Engineering, Mathematics and Computer Science](https://www.tudelft.nl/en/eemcs) at [Delft University of Technology](https://www.tudelft.nl/en/).
 
-**[I am hiring](/posts/2025/07/hiring/)! I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics. *Application deadline: 31 August 2025***. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
-
 ### My research
 
 I specialise in Symbolic AI (mathematical logic-based reasoning). Even though we as a society put a lot of trust in AI, mainstream AI systems are essentially "just winging it". I care about create AI systems that _deserve_ our trust.
@@ -50,3 +48,6 @@ A: Unless explicitly stated otherwise, I do not use GenAI to create content.
 
 Q: Are you hiring?\
 A: Yes, [I am](/posts/2025/07/hiring/). I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics. **Application deadline: 31 August 2025**. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
+
+<!-- Q: How should I address you? <span style="color: #FFFFFF;">Nobody asks me this, but I'm tired of the "hey"s and the "Mrs."s and the "madam"s.</span>\
+A: I have a more formal communication style than most Dutch people. In a professional context I prefer to address people using their academic title(s) and family name, until they tell me that I can be more informal with them. I like to be treated the same way. <span style="color: #FFFFFF;">Hence, if you are a (prospective) bachelor/master/doctorate student, and you are initiating contact with me, I prefer to be addressed as "Dr. Latour".</span> -->

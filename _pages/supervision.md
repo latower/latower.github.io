@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*If you are an MSc student at TU Delft and are interested in working with me, please get in touch.*
+*If you are a student at TU Delft and are interested in working with me, please get in touch.*
 
 
 ## DOCTORAL STUDENTS
@@ -41,8 +41,6 @@ redirect_from:
 ### CURRENT
 
 -  **Gianmaria Piergianni** (2025-27; Computer Network Reliability). [Website](https://gianmariapiergianni.com).
-
-If you are a BSc student at TU Delft and are interested in working with me, please get in touch.
 
 
 *ECTS: [European Credit Transfer and accumulation System](https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System#:~:text=The%20European%20Credit%20Transfer%20and,and%20other%20collaborating%20European%20countries.).*

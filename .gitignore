@@ -1,12 +1,6 @@
-# Ignore the contents of the _site directory
+# Ignore the contents of the _site directory and other cache directories
 _site/
-**.synctex.gz
-**.aux
-**.bbl
-**.blg
-**.log
-latex/**.pdf
-.DS*
+.sass-cache/
 
 # Ignore the directory for local files during development
 local/
@@ -14,9 +8,23 @@ local/
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
 
-# Ignore LaTeX wordcount
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+.DS*
+
+# Ignore LaTeX
+**.synctex.gz
+**.aux
+**.bbl
+**.blg
+**.log
+latex/**.pdf
 **._wordcount_selection.tex

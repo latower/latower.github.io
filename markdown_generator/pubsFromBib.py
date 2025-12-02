@@ -196,6 +196,7 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
+            preprint_available, preprint_url = locate_resource(parentdir=parentdir, resource_type="preprint", bib_id=bib_id)
             paper_available, paper_url = locate_resource(parentdir=parentdir, resource_type="paper", bib_id=bib_id)
             slides_available, slides_url = locate_resource(parentdir=parentdir, resource_type="slides", bib_id=bib_id)
             video_available, video_url = locate_resource(parentdir=parentdir, resource_type="video", bib_id=bib_id)
@@ -206,6 +207,8 @@ for pubsource in publist:
 
             # Create links for these materials
             available_material = []
+            if preprint_available:
+                available_material.append(('preprint', preprint_url))
             if paper_available:
                 available_material.append(('pdf', paper_url))
             if extended_version_available:

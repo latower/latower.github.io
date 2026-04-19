@@ -5,11 +5,11 @@ permalink: /posts/2025/11/sreevidya/
 tags:
   - news
   - supervision
-  - satellite constellation design
+  - network analysis
   - formal methods
   - combinatorial optimisation
   - reasoning under uncertainty
-  - collaboration
+  - constraint programming
 ---
 
 Welcome to my new MSc student, [Sreevidya Iyer](https://www.linkedin.com/in/sreevidyaiyer), whose thesis project I will be supervising with Dr. Emir Demirović!

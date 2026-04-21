@@ -47,7 +47,7 @@ Q: Do you use GenAI to create content?\
 A: Unless explicitly stated otherwise, I do not use GenAI to create content.
 
 Q: Are you hiring?\
-A: Yes, [I am](/posts/2025/07/hiring/). I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics. **Application deadline: 31 August 2025**. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
+A: No. After reviewing the 122 candidates who responded to my [earlier vacancy](/posts/2025/07/hiring/), I have now hired [Bruna Bazaluk](/posts/2026/04/bruna/) and [Fatemeh Jafari](/posts/2026/04/fatemeh), and have currently no funding to hire any others. I will keep applying for funding, so keep an eye out for future opportunities.
 
 <!-- Q: How should I address you? <span style="color: #FFFFFF;">Nobody asks me this, but I'm tired of the "hey"s and the "Mrs."s and the "madam"s.</span>\
 A: I have a more formal communication style than most Dutch people. In a professional context I prefer to address people using their academic title(s) and family name, until they tell me that I can be more informal with them. I like to be treated the same way. <span style="color: #FFFFFF;">Hence, if you are a (prospective) bachelor/master/doctorate student, and you are initiating contact with me, I prefer to be addressed as "Dr. Latour".</span> -->

@@ -17,8 +17,8 @@ redirect_from:
 
 ### CURRENT
 - **Robert Baumgartner** (2024-now). Promotor: dr. Sicco Verwer.
-- **[Bruna Bazaluk](/posts/2026-04-bruna/)** (2026-now). Promotor: dr. Sicco Verwer.
-- **[Fatemeh Jafari](/posts/2026-04-fatemeh/)** (2026-now). Other copromotor: dr. Fabian Mies. Promotor: prof. dr. Mathijs de Weerdt. 
+- **[Bruna Bazaluk](/posts/2026/04/bruna/)** (2026-now). Promotor: dr. Sicco Verwer.
+- **[Fatemeh Jafari](/posts/2026/04/fatemeh/)** (2026-now). Other copromotor: dr. Fabian Mies. Promotor: prof. dr. Mathijs de Weerdt. 
 
 ---
 

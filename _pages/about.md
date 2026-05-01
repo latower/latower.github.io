@@ -28,9 +28,11 @@ If you would like to know more about my current position, research interests and
 
 ### Want to work with me?
 
-**I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics.** *Application deadline: 31 August 2025*. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details.
+<!-- **I am looking for a PhD candidate who is interested in working on the intersection of logic and statistics.** *Application deadline: 31 August 2025*. Click [here](https://careers.tudelft.nl/job/Delft-PhD-Position-Symbolic-AI-and-Reasoning-Under-Uncertainty-2628-CD/824585702/) for details. -->
 
 _I am currently looking for motivated TU Delft MSc and BSc students_ with a solid background in algorithm design and logic, who would like to do their research project with me. Please contact me if you are interested, so we can discuss possible topics.
+
+I am not currently hiring, but will continue to apply for funding, so please keep an eye out for future opportunities.
 
 ### Contact
 

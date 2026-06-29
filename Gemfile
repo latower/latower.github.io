@@ -22,14 +22,17 @@ source 'https://rubygems.org'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
+  gem 'jekyll', '3.9.0'
+  gem 'jekyll-feed', '0.15.1'
+  gem 'jekyll-sitemap', '1.4.0'
+  gem 'hawkins', '2.0.5'
+  gem 'jekyll-redirect-from', '0.16.0'
+  gem 'jemoji', '0.12.0'
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+gem 'liquid', '~> 4.0.3'
+gem 'github-pages', '223'
 gem 'connection_pool', '2.5.0'
+gem 'csv'
+gem 'bigdecimal'

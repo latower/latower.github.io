@@ -96,18 +96,7 @@
   abstract  = {We show that a number of problems in Artificial Intelligence can be seen as Stochastic Constraint Optimization Problems (SCOPs): problems that have both a stochastic and a constraint optimization component. We argue that these problems can be modeled in a new language, SC-ProbLog, that combines a generic Probabilistic Logic Programming (PLP) language, ProbLog, with stochastic constraint optimization. We propose a toolchain for effectively solving these SC-ProbLog programs, which consists of two stages. In the first stage, decision diagrams are compiled for the underlying distributions. These diagrams are converted into models that are solved using Mixed Integer Programming or Constraint Programming solvers in the second stage. We show that, to yield linear constraints, decision diagrams need to be compiled in a specific form. We introduce a new method for compiling small Sentential Decision Diagrams in this form. We evaluate the effectiveness of several variations of this toolchain on test cases in viral marketing and bioinformatics.},
   keywords = {Viral Marketing, Toolchain, Ordered Binary Decision Diagrams, Sentential Decision Diagrams, Weighted Model Counting, ProbLog}
 } 
-@inproceedings{ArsEtAl25,
-      title={A Simulated Annealing Approach to Social Network Anonymization (to appear)}, 
-      author={E. Denisa Arsene and Rachel G. {de Jong} and Frank W. Takes and Anna L. D. Latour},
-      editor={Hocine Cherifi and Luis M. Rocha and Chantal Cherifi and Zeynep Ertem},
-      year={2025},
-      month = {dec},
-      booktitle = {Complex Networks {\&} Their Applications {XIV} - Proceedings of The Fourtheenth International Conference on Complex Networks and their Applications: {COMPLEX} {NETWORKS} 2025, Binghamton, New York, USA, 9-11 December 2025},
-      series = {Studies in Computational Intelligence},
-      publisher    = {Springer},
-      abstract = {Social networks often contain sensitive information. Sharing such networks potentially puts the privacy of individuals in the network at risk. Leaving out unique identifiers, i.e., pseudonymization, is insufficient to ensure node anonymity, as the network structure surrounding a node may disclose its identity. The goal of network anonymization is to modify the structure of a given complex network to minimize the number of nodes with a unique neighborhood structure. In the budgeted version of this problem, where a given number of edge modifications is allowed, existing heuristic approaches offer speed but obtain only a limited increase in anonymity. We propose a new simulated annealing approach for network anonymization, SANA, which gradually removes edges from the original network structure to optimize anonymity. Experimental results on real-world social network datasets show that the proposed algorithm outperforms state-of-the-art methods by anonymizing, on average, over 17 times more nodes. Compared to existing approaches, it does so with equal or better data utility after anonymization. The results presented in this work further pave the way for enabling safe and privacy-aware sharing of social network data by researchers and practitioners.},
-      keywords = {Privacy, Network Anonymization, Simulated Annealing, Social Network Analysis, Complex Networks, Social Networks, Combinatorial Optimization}
-}@inproceedings{FokEtAl19,
+@inproceedings{FokEtAl19,
     author = {Dani\"el Fokkinga and Anna L.D. Latour and Marie Anastacio and Siegfried Nijssen and Holger Hoos},
     title = "Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation",
     booktitle = "Workshop Data Science meets Optimisation (DSO), held in conjunction with IJCAI 2019",
@@ -115,7 +104,21 @@
     month = "aug",
     abstract = "Stochastic Constraint Optimisation Problems (SCOPs), such as the viral marketing problem and transmission grid reliability problem, arise in fields such as industry, governance and science. The recently proposed Stochastic Constraint Probabilistic Prolog (SC-ProbLog) language makes it possible to model and solve such SCOPs. Solving SCOPs exactly is NP-hard, and to solve real-world problems, exact SCOP solving methods must employ highly optimised heuristics. We propose to follow the principle of Programming by Optimisation (PbO): we expose the design choices of a recently proposed SCOP solving method and optimise these using Automated Algorithm Configuration (AAC). For a set of viral marketing problems, our optimised SCOP solver runs up to 26 times faster and solves almost two thirds of the instances that could not be solved within a cutoff time of ten minutes, by an expert-chosen default configuration of the solver. For a set of transmission grid reliability problems, the optimised configuration solves ten percent more instances overall, and solves some instances up to ten times faster."
 } 
-@inproceedings{RooEtAl20,
+@inproceedings{ArsEtAl25,
+      title={A Simulated Annealing Approach to Social Network Anonymization}, 
+      author={E. Denisa Arsene and Rachel G. {de Jong} and Frank W. Takes and Anna L. D. Latour},
+      editor={Hocine Cherifi and Luis M. Rocha and Chantal Cherifi and Zeynep Ertem},
+      year={2026},
+      month = {dec},
+      booktitle = {Complex Networks {\&} Their Applications XIV},
+      series = {Studies in Computational Intelligence},
+      publisher = {Springer Nature Switzerland},
+      address = {Cham},
+      pages = {205--216},
+      abstract = {Social networks often contain sensitive information. Sharing such networks potentially puts the privacy of individuals in the network at risk. Leaving out unique identifiers, i.e., pseudonymization, is insufficient to ensure node anonymity, as the network structure surrounding a node may disclose its identity. The goal of network anonymization is to modify the structure of a given complex network to minimize the number of nodes with a unique neighborhood structure. In the budgeted version of this problem, where a given number of edge modifications is allowed, existing heuristic approaches offer speed but obtain only a limited increase in anonymity. We propose a new simulated annealing approach for network anonymization, SANA, which gradually removes edges from the original network structure to optimize anonymity. Experimental results on real-world social network datasets show that the proposed algorithm outperforms state-of-the-art methods by anonymizing, on average, over 17 times more nodes. Compared to existing approaches, it does so with equal or better data utility after anonymization. The results presented in this work further pave the way for enabling safe and privacy-aware sharing of social network data by researchers and practitioners.},
+      isbn = {978-3-032-16645-6},
+      keywords = {Privacy, Network Anonymization, Simulated Annealing, Social Network Analysis, Complex Networks, Social Networks, Combinatorial Optimization}
+}@inproceedings{RooEtAl20,
     author = "Jeroen G. Rook and Anna L.D. Latour and Siegfried Nijssen and Holger H. Hoos",
     title = "Better Caching for Better Model Counting (extended abstract)",
     booktitle = "International Workshop on Model Counting (MCW), held in conjunction with SAT 2020",

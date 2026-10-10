@@ -16,7 +16,7 @@ COPY Gemfile Gemfile.lock ./
 # Install bundler and Ruby dependencies
 RUN gem install connection_pool:2.5.0 && \
     gem install bundler:4.0.10 && \
-    bundle _4.0.10_ config set frozen true && \
+#    bundle _4.0.10_ config set frozen true && \
     bundle _4.0.10_ install
 
 # Create a non-root user (UID 1000) and set ownership

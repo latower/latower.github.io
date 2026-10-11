@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "RANDOM RECOMMENDATIONS"
 permalink: /recommendations/
 author_profile: true

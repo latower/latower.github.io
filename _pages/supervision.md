@@ -23,9 +23,11 @@ redirect_from:
 ---
 
 ## MSc STUDENTS
-test
+
 ### CURRENT
-- **Denisa Arsene** (2026-27; Domain-Independent Dynamic Programming for Combinatiorial Optimization), co-supervised with Prof. Dr. Ryo Kuroiwa (National Institute of Informatics, Tokyo, Japan) and dr. Emir Demirović (TU Delft, Algorithmics). [LinkedIn](https://www.linkedin.com/in/denisa-arsene-912bb628b/), [github](https://github.com/arsenedenisa/).
+*MSc projects typically start in the second week of November. I can take on one more MSc student, so if you're an MSc student from TU Delft and are interested in doing an Algorithmics research project with me, please get in touch.*
+
+<!-- - **Elena-Denisa Arsene** (2026-27; Domain-Independent Dynamic Programming for Combinatiorial Optimization), co-supervised with Prof. Dr. Ryo Kuroiwa (National Institute of Informatics, Tokyo, Japan) and dr. Emir Demirović (TU Delft, Algorithmics). [LinkedIn](https://www.linkedin.com/in/denisa-arsene-912bb628b/), [github](https://github.com/arsenedenisa/). -->
 
 ### FORMER
 
